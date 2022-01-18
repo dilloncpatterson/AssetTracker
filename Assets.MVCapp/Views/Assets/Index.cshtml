@@ -1,0 +1,65 @@
+﻿@model IEnumerable<Assets.MVCapp.Models.AssetViewModel>
+
+@{
+    ViewData["Title"] = "Assets List";
+}
+
+<h1>List of Assets</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            @*<th>
+                @Html.DisplayNameFor(model => model.Manufacturer)
+            </th>*@
+            <th>
+                @Html.DisplayNameFor(model => model.TagNumber)
+            </th>
+            @*<th>
+                @Html.DisplayNameFor(model => model.Model)
+            </th>*@
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SerialNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AssetType)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            @*<td>
+                @Html.DisplayFor(modelItem => item.Manufacturer)
+            </td>*@
+            <td>
+                @Html.DisplayFor(modelItem => item.TagNumber)
+            </td>
+            @*<td>
+                @Html.DisplayFor(modelItem => item.Model)
+            </td>*@
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SerialNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AssetType)
+            </td>
+            @*<td>
+            @Html.ActionLink("Edit", "Edit", new {  id=item.AssetType }) |
+            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new {  id=item.AssetType })
+        </td>*@
+        </tr>
+}
+    </tbody>
+</table>

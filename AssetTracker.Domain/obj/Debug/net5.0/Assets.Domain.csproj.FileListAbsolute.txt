@@ -1,0 +1,15 @@
+C:\Users\dillo\source\repos\AssetTracker\AssetTracker.Domain\obj\Debug\net5.0\Assets.Domain.csproj.AssemblyReference.cache
+C:\Users\dillo\source\repos\AssetTracker\AssetTracker.Domain\obj\Debug\net5.0\Assets.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dillo\source\repos\AssetTracker\AssetTracker.Domain\obj\Debug\net5.0\Assets.Domain.AssemblyInfoInputs.cache
+C:\Users\dillo\source\repos\AssetTracker\AssetTracker.Domain\obj\Debug\net5.0\Assets.Domain.AssemblyInfo.cs
+C:\Users\dillo\source\repos\AssetTracker\AssetTracker.Domain\obj\Debug\net5.0\Assets.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dillo\source\repos\AssetTracker\AssetTracker.Domain\bin\Debug\net5.0\Assets.Domain.deps.json
+C:\Users\dillo\source\repos\AssetTracker\AssetTracker.Domain\bin\Debug\net5.0\Assets.Domain.runtimeconfig.json
+C:\Users\dillo\source\repos\AssetTracker\AssetTracker.Domain\bin\Debug\net5.0\Assets.Domain.runtimeconfig.dev.json
+C:\Users\dillo\source\repos\AssetTracker\AssetTracker.Domain\bin\Debug\net5.0\Assets.Domain.dll
+C:\Users\dillo\source\repos\AssetTracker\AssetTracker.Domain\bin\Debug\net5.0\ref\Assets.Domain.dll
+C:\Users\dillo\source\repos\AssetTracker\AssetTracker.Domain\bin\Debug\net5.0\Assets.Domain.pdb
+C:\Users\dillo\source\repos\AssetTracker\AssetTracker.Domain\obj\Debug\net5.0\Assets.Domain.dll
+C:\Users\dillo\source\repos\AssetTracker\AssetTracker.Domain\obj\Debug\net5.0\ref\Assets.Domain.dll
+C:\Users\dillo\source\repos\AssetTracker\AssetTracker.Domain\obj\Debug\net5.0\Assets.Domain.pdb
+C:\Users\dillo\source\repos\AssetTracker\AssetTracker.Domain\obj\Debug\net5.0\Assets.Domain.genruntimeconfig.cache
