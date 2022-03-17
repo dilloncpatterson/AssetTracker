@@ -1,5 +1,20 @@
 ﻿using Assets.Domain;
 using Microsoft.EntityFrameworkCore;
+/// <summary>
+/// This is where you will create the connection string to the database. 
+/// Code first software database is named here. 
+/// This is where the "starter data" is found. Eg). Asset types, names, etc. 
+/// Make sure proper packages are added: 
+///     microsoft.entityframeworkcore
+/// 
+/// NOTE****
+/// The creation is completed in 2 steps(to be done using the Package Manager Console, 
+/// Default Project: RentalProperties.Data (not RentalProperties.Domain)
+/// 1. Add-Migration CreateRentalProperties 
+/// 2. Update-Database (If you make changes in the entity classes, you can run this command again to update
+/// the database. The Add-M igration is only needed upon creation)
+/// 
+/// </summary>
 
 namespace Assets.Data
 {
