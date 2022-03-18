@@ -44,19 +44,19 @@ namespace Assets.BLL//Business Logic Layer
         }
 
 
-        //public static void Update(Asset asset) // new data object
-        //{
-        //    AssetsContext db = new AssetsContext();
-        //    Asset originalAsset = db.Assets.Find(asset.Id); //old date object
-        //    originalAsset.Id = asset.Id;
-        //    db.SaveChanges();
-        //}
+        /*public static void Update(Asset asset) // new data object
+        {
+            AssetsContext db = new AssetsContext();
+            Asset originalAsset = db.Assets.Find(asset.Id); //old date object
+            originalAsset.Id = asset.Id;
+            db.SaveChanges();
+        }*/
 
-        //public static void Delete(Asset asset)
-        //{
-        //    AssetsContext db = new AssetsContext();
-        //    db.Assets.Remove(asset);
-        //    db.SaveChanges();
-        //}
+      /*  public static void Delete(Asset asset)
+        {
+            AssetsContext db = new AssetsContext();
+           db.Assets.Remove(asset);
+            db.SaveChanges();
+        }*/
     }
 }
